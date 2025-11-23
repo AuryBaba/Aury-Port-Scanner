@@ -1,4 +1,4 @@
-# GUIDE 2025 © AurySoftWare
+# AuryGuidePortScanner 2025 © AurySoftWare
 
   <br><br>
   <strong>Türkiye’nin en hızlı, en temiz ve en profesyonel TCP Port Scanner’ı</strong>
@@ -13,7 +13,7 @@
 
 ---
 
-### Neden GUIDE 2025?
+### Neden AuryGuidePortScanner 2025?
 
 | Özellik                        | Açıklama                                                                 |
 |--------------------------------|---------------------------------------------------------------------------|
