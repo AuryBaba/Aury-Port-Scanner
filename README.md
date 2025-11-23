@@ -40,13 +40,10 @@
 
 ### Ekran Görüntüleri
 
-| Ana Ekran                                   | Tarama Sonucu                               |
-|---------------------------------------------|---------------------------------------------|
-| ![Ana Ekran](assets/screen1.png)            | ![Sonuç](assets/screen2.png)                |
+| Ana Ekran                                   
+|---------------------------------------------
+| <img width="1144" height="776" alt="image" src="https://github.com/user-attachments/assets/c214bc6a-b32a-4200-b909-9577bef84f4c" />
 
-### Kurulum (30 saniye)
 
-```bash
-git clone https://github.com/AurySoftWare/guide-2025.git
-cd guide-2025
-python guide_2025_pro.py
+
+
