@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <b>Geliştirici:</b> DVA1 | <b>Şirket:</b> AurySoftWare © 2025
+  <b>Geliştirici:</b> AurySoftWare © 2025
 </p>
 
 ---
